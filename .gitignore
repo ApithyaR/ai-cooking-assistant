@@ -1,0 +1,19 @@
+ECHO is on.
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
