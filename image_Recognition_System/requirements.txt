@@ -1,0 +1,9 @@
+numpy
+tensorflow 
+flask  
+Werkzeug
+gunicorn
+keras
+matplotlib
+opencv-python
+streamlit
